@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class DisplayMatrix {
     public static void main(String[] args) {
 
-        //Displa a matrix full of - with dinamic H x W
+        //Display a matrix full of - with dinamic H x W
         System.out.println("Insert Matrix size:");
         Scanner sc = new Scanner(System.in);
         int size = sc.nextInt();

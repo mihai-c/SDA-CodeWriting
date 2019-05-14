@@ -2,7 +2,7 @@ package numbers;
 
 import java.util.Scanner;
 
-public class Numbers {
+public class ChristmasTree {
     public static void main(String[] args) {
         /*Scanner sc = new Scanner(System.in);
         System.out.print("Insert number: ");
