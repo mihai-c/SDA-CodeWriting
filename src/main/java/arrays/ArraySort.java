@@ -7,6 +7,7 @@ public class ArraySort {
         //Sortarea arrayului descendent sau ascendent -> < descndent , > ascendent
         int[] array = {7, 5, 9, 3, 2, 4, 1};
         int temp = 0;
+        System.out.println(Arrays.toString(array));
 
         for (int index=0; index<array.length; index++ ) {
             for(int j=0; j<array.length; j++){
